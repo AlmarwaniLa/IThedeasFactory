@@ -1,6 +1,5 @@
-module Visible
-    def archived?
-      status == 'archived'
-    end
-  end
-  
+# module Visible
+ # def archived?
+  #  status == 'archived'
+ ## end
+#end
